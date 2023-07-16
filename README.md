@@ -1,6 +1,6 @@
 # URL-to-QR-Code-Generator
 <br>
-## Converts a text string (URL) to a QR image (PNG)
+##Encodes a text string (URL) to a QR image (PNG)
 
 The following project is made on NODE.JS, which encodes a piece of string to a QR image generated in PNG format. 
 
